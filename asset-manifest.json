@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/newashuportfolio/static/css/main.7c6ba6c9.css",
+    "main.js": "/newashuportfolio/static/js/main.d266bb5e.js",
+    "static/js/453.83234151.chunk.js": "/newashuportfolio/static/js/453.83234151.chunk.js",
+    "index.html": "/newashuportfolio/index.html",
+    "main.7c6ba6c9.css.map": "/newashuportfolio/static/css/main.7c6ba6c9.css.map",
+    "main.d266bb5e.js.map": "/newashuportfolio/static/js/main.d266bb5e.js.map",
+    "453.83234151.chunk.js.map": "/newashuportfolio/static/js/453.83234151.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7c6ba6c9.css",
+    "static/js/main.d266bb5e.js"
+  ]
+}
